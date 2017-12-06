@@ -1,4 +1,4 @@
-> "Hoc fac et vinces" - Делай так — и победишь.
+> **Hoc fac et vince** - "Делай так — и победишь"
 
 ## Online courses (in progress):
 * [Stanford University: Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/info)
