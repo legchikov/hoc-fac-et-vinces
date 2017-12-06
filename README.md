@@ -11,6 +11,7 @@
 ## Online courses (future):
 * [Stepik: Научное мышление](https://stepik.org/course/578/)
 * [Stepik: Easy Way to Technical Writing](https://stepik.org/course/684)
+* [Stanford University: Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/info)
 
 ## Links
 * [Let’s Build A Simple Interpreter](https://ruslanspivak.com)
