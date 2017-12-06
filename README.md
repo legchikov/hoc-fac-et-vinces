@@ -2,9 +2,9 @@
 My education project
 
 ## Online courses (in progress):
-⋅⋅* [Stanford University: Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/info)
-⋅⋅* [Coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn/home)
-⋅⋅* [Stepik: Python: основы и применение](https://stepik.org/course/512/)
+* [Stanford University: Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/info)
+* [Coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn/home)
+* [Stepik: Python: основы и применение](https://stepik.org/course/512/)
 
 ## Online courses (completed):
 
