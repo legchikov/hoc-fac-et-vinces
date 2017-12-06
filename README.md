@@ -1,5 +1,4 @@
-# hoc-fac-et-vinces
-My education project
+> Hoc fac et vinces (lat.) - Делай так — и победишь (рус.)
 
 ## Online courses (in progress):
 * [Stanford University: Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/info)
