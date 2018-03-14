@@ -21,6 +21,7 @@
 * [003. Школа менеджмента — Behavioral engineering. Дмитрий Мацкевич](https://www.youtube.com/watch?v=70hcbjyJZ-Q)
 * [CS50 Lectures 2017](https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
 * [CS50 Lectures 2012](https://www.youtube.com/playlist?list=PL2SOU6wwxB0s5l_sHT1f-7NyTBIw33EEJ)
+* [ак научить мозг учиться?](https://www.youtube.com/watch?v=nEGmdlJEr8M)
 
 ## Books (in progress)
 
