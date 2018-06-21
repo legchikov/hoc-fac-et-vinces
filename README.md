@@ -16,6 +16,7 @@
 ## Links
 * [Let’s Build A Simple Interpreter](https://ruslanspivak.com)
 * [Universal Turing machine (code examples)](https://rosettacode.org/wiki/Universal_Turing_machine)
+* [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/Queues.html)
 
 ## Videos
 * [003. Школа менеджмента — Behavioral engineering. Дмитрий Мацкевич](https://www.youtube.com/watch?v=70hcbjyJZ-Q)
